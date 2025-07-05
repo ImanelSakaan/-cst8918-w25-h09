@@ -229,5 +229,4 @@ kubectl delete -f sample-app.yaml
 terraform destroy
 ```
 
-```
 
