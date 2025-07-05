@@ -121,6 +121,10 @@ In the `aks-lab` directory, run:
 terraform init
 terraform apply
 ```
+![image](https://github.com/user-attachments/assets/aa47f526-783a-43e2-992b-a82a38acad18)
+
+![image](https://github.com/user-attachments/assets/7b756c23-2384-4727-b9f9-cb197048a5a5)
+
 
 Accept the plan and wait until the AKS cluster is deployed (\~5–10 minutes).
 
